@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Geology Engraph Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
